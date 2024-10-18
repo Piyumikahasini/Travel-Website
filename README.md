@@ -1,5 +1,5 @@
  
-# Animated Envelope
+# Travel Website
 This project demonstrates an animated envelope using Bootsrap HTML, CSS, and JavaScript. Clicking on the envelope reveals a hidden letter inside.
 
 ## Demo
